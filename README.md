@@ -1,5 +1,5 @@
 # crispylabs-terraform
-![repo-size](https://img.shields.io/github/repo-size/crispy-tk/terraform.aws.iam)
+![repo-size](https://img.shields.io/github/repo-size/crispy-tk/crispylabs-terraform)
 Exemplos de projetos em Terraform (Hashicorp)
 
 # List of Projects
