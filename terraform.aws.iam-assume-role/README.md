@@ -1,5 +1,5 @@
 # README
-![repo-size](https://img.shields.io/github/repo-size/crispy-tk/terraform.aws.iam)
+![repo-size](https://img.shields.io/github/repo-size/crispy-tk/terraform.aws.iam-assume-role)
 
 AWS IAM Assume Role resources.
 
