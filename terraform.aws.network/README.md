@@ -1,5 +1,5 @@
 # README 
-![repo-size](https://img.shields.io/github/repo-size/crispy-tk/terraform.aws.network)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 AWS Network project.
 
